@@ -17,6 +17,7 @@ Blog App REST API
     - Get User
     - Update User
     - Delete User
+    - Add Categories
 
 - ## Testing
     - All endpoints are tested
