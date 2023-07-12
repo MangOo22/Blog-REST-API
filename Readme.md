@@ -14,6 +14,7 @@ Blog App REST API
     - Get Post
     - Update Posts
     - Delete Posts
+    - Create Users
     - Get User
     - Update User
     - Delete User
