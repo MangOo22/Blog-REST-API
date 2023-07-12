@@ -1,6 +1,6 @@
 # Blog API
 
-A blog API built with Node js
+Blog App REST API
 
 ## Features
 - ### Authentication
